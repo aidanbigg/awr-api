@@ -1,0 +1,20 @@
+{
+  "name": "bigg/awr",
+  "description": "API Wrapper for the Advanced Web Ranking API",
+  "type": "library",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {},
+  "autoload": {
+    "psr-0": {
+      "AWR": "src"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aidan Ayala",
+      "email": "aidan@bigg.co.uk"
+    }
+  ]
+}
